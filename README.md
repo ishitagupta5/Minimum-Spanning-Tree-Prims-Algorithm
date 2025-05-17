@@ -2,7 +2,7 @@
 
 This Python project generates a **Minimum Spanning Tree (MST)** from a graph represented as an adjacency matrix in CSV format, using **Prim's Algorithm**. It logs each selected edge and the total weight of the MST in an output text file.
 
-## 📌 Features
+## Features
 
 - Reads input graph from a CSV file (adjacency matrix format)
 - Implements Prim's algorithm from scratch
